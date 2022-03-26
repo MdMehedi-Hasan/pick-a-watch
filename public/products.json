@@ -1,74 +1,56 @@
 [
     {
         "id":1,
-        "image":"/public/Product-images/apple-series-5.jpg",
-        "name":"something",
-        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+        "image":"https://images.unsplash.com/photo-1551816230-ef5deaed4a26?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+        "name":"Apple series-5",
+        "description":"Latest smart watch in town with lots of exiting features."
     },
     {
         "id":2,
-        "image":"/public/Product-images/apple-series-6.jpg",
-        "name":"something",
-        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+        "image":"https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8c21hcnQlMjB3YXRjaHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+        "name":"Mi band",
+        "description":"Latest smart watch in town with lots of exiting features."
     },
     {
         "id":3,
-        "image":"/public/Product-images/danding-black.jpg",
-        "name":"something",
-        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+        "image":"https://images.unsplash.com/photo-1637160151663-a410315e4e75?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "name":"Samsung go-pro",
+        "description":"Latest smart watch in town with lots of exiting features."
     },
     {
         "id":4,
-        "image":"/public/Product-images/huawei-smart-watch.jpg",
-        "name":"something",
-        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+        "image":"https://images.unsplash.com/photo-1579586337278-3befd40fd17a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80",
+        "name":"Apple series -3",
+        "description":"Latest smart watch in town with lots of exiting features."
     },
     {
         "id":5,
-        "image":"/public/Product-images/kantana.white.jpg",
-        "name":"something",
-        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+        "image":"https://images.unsplash.com/photo-1601886935309-4e0238f4c0ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "name":"Boat s-Smart",
+        "description":"Latest smart watch in town with lots of exiting features."
     },
     {
         "id":6,
-        "image":"/public/Product-images/paul-cuoco.jpg",
-        "name":"something",
-        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+        "image":"https://images.unsplash.com/photo-1554116154-e733de92fe4b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+        "name":"Apple series-7",
+        "description":"Latest smart watch in town with lots of exiting features."
     },
     {
         "id":7,
-        "image":"/public/Product-images/rachit-tank.jpg",
-        "name":"something",
-        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+        "image":"https://images.unsplash.com/photo-1523426366168-ab13c3cccb03?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fHNtYXJ0JTIwd2F0Y2h8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+        "name":"Samsung smart-watch",
+        "description":"Latest smart watch in town with lots of exiting features."
     },
     {
         "id":8,
-        "image":"/public/Product-images/rick-muigo.jpg",
-        "name":"something",
-        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+        "image":"https://images.unsplash.com/photo-1569411032431-07598b0012c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+        "name":"Xiaomy mi band",
+        "description":"Latest smart watch in town with lots of exiting features."
     },
     {
         "id":9,
-        "image":"/public/Product-images/robert-torres.jpg",
-        "name":"something",
-        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
-    },
-    {
-        "id":10,
-        "image":"/public/Product-images/salvador-escalante.jpg",
-        "name":"something",
-        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
-    },
-    {
-        "id":11,
-        "image":"/public/Product-images/samsung-Zsmart.jpg",
-        "name":"something",
-        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
-    },
-    {
-        "id":12,
-        "image":"/public/Product-images/xiaomy.jpg",
-        "name":"something",
-        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+        "image":"https://images.unsplash.com/photo-1601136681597-76aeb3913224?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "name":"Huawei smart series",
+        "description":"Latest smart watch in town with lots of exiting features."
     }
 ]

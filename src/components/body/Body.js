@@ -3,10 +3,10 @@ import Aside from '../aside/Aside';
 import Cards from '../cards/Cards';
 import './body.css'
 
-const Body = () => {
+const Body = (props) => {
     return (
         <div className='grid'>
-            <Cards></Cards>
+            <Cards key={props.key}></Cards>
             <Aside></Aside>
         </div>
     );
