@@ -1,0 +1,14 @@
+.header{
+    background-color: rgb(126, 150, 255);
+    color: rgb(236, 236, 236);
+    border-bottom: 5px solid rgb(75, 35, 255);
+    display: flex;
+    justify-content: center;
+}
+.container{
+    width: 80%;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

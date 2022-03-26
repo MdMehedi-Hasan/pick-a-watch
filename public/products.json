@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "image":"/public/Product-images/apple-series-5.jpg",
+        "name":"something",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+    },
+    {
+        "id":2,
+        "image":"/public/Product-images/apple-series-6.jpg",
+        "name":"something",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+    },
+    {
+        "id":3,
+        "image":"/public/Product-images/danding-black.jpg",
+        "name":"something",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+    },
+    {
+        "id":4,
+        "image":"/public/Product-images/huawei-smart-watch.jpg",
+        "name":"something",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+    },
+    {
+        "id":5,
+        "image":"/public/Product-images/kantana.white.jpg",
+        "name":"something",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+    },
+    {
+        "id":6,
+        "image":"/public/Product-images/paul-cuoco.jpg",
+        "name":"something",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+    },
+    {
+        "id":7,
+        "image":"/public/Product-images/rachit-tank.jpg",
+        "name":"something",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+    },
+    {
+        "id":8,
+        "image":"/public/Product-images/rick-muigo.jpg",
+        "name":"something",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+    },
+    {
+        "id":9,
+        "image":"/public/Product-images/robert-torres.jpg",
+        "name":"something",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+    },
+    {
+        "id":10,
+        "image":"/public/Product-images/salvador-escalante.jpg",
+        "name":"something",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+    },
+    {
+        "id":11,
+        "image":"/public/Product-images/samsung-Zsmart.jpg",
+        "name":"something",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+    },
+    {
+        "id":12,
+        "image":"/public/Product-images/xiaomy.jpg",
+        "name":"something",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi reiciendis vitae non, eos illum fugit tempore dolor deleniti architecto porro accusantium. Vel aliquid, minus obcaecati voluptatum vero suscipit consectetur!"
+    }
+]

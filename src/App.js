@@ -1,18 +1,14 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
+import Header from './components/header/Header';
+import Body from './components/body/Body';
 
 function App() {
   return (
     <div className="App">
-      <Test></Test>
+      <Header></Header>
+      <Body></Body>
     </div>
   );
-}
-const Test = () => {
-  return (
-    <div>
-      <h1>Testing component & git initialization</h1>
-    </div>
-  )
 }
 export default App;
