@@ -12,10 +12,14 @@ const Cards = () => {
             .then(res => res.json())
             .then(data => setProducts(data))
     }, [])
-    const handleClick = (product) => {
-      const newArray = [...shop, product];
-      setShop(newArray)
+  const handleClick = (product) => {
+        const newArray = [...shop, product];
+        setShop(newArray)
   };
+  const reset = (x) => {
+    setShop([])
+  }
+  
   return (
       <div className='grid'>
         <div className='list-of-products'>
@@ -23,11 +27,10 @@ const Cards = () => {
       </div>
       <div className='border border-danger ms-4 bg-info'>
             <div style={{position: 'sticky',top: 0}}>
-            <Cart shop={shop}></Cart>
+            <Cart shop={shop} reset ={reset}></Cart>
             </div>
       </div>
       </div>
-        
     );
 };
 

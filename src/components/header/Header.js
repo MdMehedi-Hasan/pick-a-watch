@@ -10,7 +10,7 @@ const Header = () => {
                 <strong>Picka-watch</strong>
                 </div>
                 <div>
-                 <i class="fas fa-cart-plus"></i><sup>0</sup>
+                 <i class="fas fa-cart-plus"></i>
                 </div>
             </header>
         </div>
