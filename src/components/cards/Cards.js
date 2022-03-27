@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import CardCompo from '../card-compo/CardCompo';
+import Cart from '../cart/Cart';
 import './cards.css'
 
 const Cards = () => {
@@ -15,7 +16,7 @@ const Cards = () => {
       // console.log(product.name, product.price);
       const newArray = [...shop, product];
       setShop(newArray)
-      console.log(newArray);
+      // console.log(newArray);
   };
   return (
       <div className='grid'>
@@ -24,11 +25,7 @@ const Cards = () => {
       </div>
       <div className='border border-danger ms-4 bg-info'>
             <div style={{position: 'sticky',top: 0}}>
-                <h4>Order Details</h4>
-          <h6>Total product @cart :{shop.length}</h6>
-          <span>hello: {shop.name} </span>
-            <button className='btn select'>Select for me</button>
-            <button className='btn btn-danger delete'>Clear cart</button>
+            <Cart shop={shop}></Cart>
             </div>
       </div>
       </div>
