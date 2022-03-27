@@ -13,10 +13,8 @@ const Cards = () => {
             .then(data => setProducts(data))
     }, [])
     const handleClick = (product) => {
-      // console.log(product.name, product.price);
       const newArray = [...shop, product];
       setShop(newArray)
-      // console.log(newArray);
   };
   return (
       <div className='grid'>
