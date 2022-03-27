@@ -1,13 +1,10 @@
 import React from 'react';
-import Aside from '../aside/Aside';
 import Cards from '../cards/Cards';
-import './body.css'
 
-const Body = (props) => {
+const Body = () => {
     return (
-        <div className='grid'>
-            <Cards key={props.key}></Cards>
-            <Aside></Aside>
+        <div>
+            <Cards></Cards>
         </div>
     );
 };

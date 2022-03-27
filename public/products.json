@@ -3,54 +3,63 @@
         "id":1,
         "image":"https://images.unsplash.com/photo-1551816230-ef5deaed4a26?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
         "name":"Apple series-5",
+        "price":"45000",
         "description":"Latest smart watch in town with lots of exiting features."
     },
     {
         "id":2,
         "image":"https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8c21hcnQlMjB3YXRjaHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
         "name":"Mi band",
+        "price":"3500",
         "description":"Latest smart watch in town with lots of exiting features."
     },
     {
         "id":3,
         "image":"https://images.unsplash.com/photo-1637160151663-a410315e4e75?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "name":"Samsung go-pro",
+        "price":"5000",
         "description":"Latest smart watch in town with lots of exiting features."
     },
     {
         "id":4,
         "image":"https://images.unsplash.com/photo-1579586337278-3befd40fd17a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80",
         "name":"Apple series -3",
+        "price":"40000",
         "description":"Latest smart watch in town with lots of exiting features."
     },
     {
         "id":5,
         "image":"https://images.unsplash.com/photo-1601886935309-4e0238f4c0ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "name":"Boat s-Smart",
+        "price":"9000",
         "description":"Latest smart watch in town with lots of exiting features."
     },
     {
         "id":6,
         "image":"https://images.unsplash.com/photo-1554116154-e733de92fe4b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
         "name":"Apple series-7",
+        "price":"50000",
         "description":"Latest smart watch in town with lots of exiting features."
     },
     {
         "id":7,
         "image":"https://images.unsplash.com/photo-1523426366168-ab13c3cccb03?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fHNtYXJ0JTIwd2F0Y2h8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
         "name":"Samsung smart-watch",
+        "price":"15000",
         "description":"Latest smart watch in town with lots of exiting features."
     },
     {
         "id":8,
         "image":"https://images.unsplash.com/photo-1569411032431-07598b0012c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
         "name":"Xiaomy mi band",
+        "price":"4500",
         "description":"Latest smart watch in town with lots of exiting features."
     },
     {
         "id":9,
         "image":"https://images.unsplash.com/photo-1601136681597-76aeb3913224?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "name":"Huawei smart series",
+        "price":"11500",
         "description":"Latest smart watch in town with lots of exiting features."
     }
 ]
