@@ -1,5 +1,5 @@
 # Live website link
 
-[Create React App](https://picka-watch.netlify.app/).
+[picka-watch web](https://picka-watch.netlify.app/).
 
 
