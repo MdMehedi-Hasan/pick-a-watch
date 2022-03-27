@@ -13,7 +13,7 @@ const CardCompo = (product) => {
       <p className="card-text">{description}</p>
     </div>
     <div>
-      <button onClick={()=>product.handleClick(product)} className="bg-info bg-gradient text-white border text-center btn btn-cstm">Add to cart <i class="fas fa-cart-plus"></i>
+      <button onClick={()=>product.handleClick(product)} className="text-white border text-center btn btn-cstm">Add to cart <i class="fas fa-cart-plus"></i>
 </button>
     </div>
   </div>

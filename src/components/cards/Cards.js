@@ -39,8 +39,8 @@ const Cards = () => {
           ></CardCompo>
         ))}
       </div>
-      <div className="border border-danger ms-4 bg-info text-center">
-        <div style={{ position: "sticky", top: 0 }}>
+      <div className="border border-danger ms-4 text-center" style={{backgroundColor:'rgba(204, 95, 255, 0.8)'}}>
+        <div style={{ position: "sticky", top: 0}}>
           <Cart shop={shop} reset={reset} key={shop.id}></Cart>
         </div>
       </div>

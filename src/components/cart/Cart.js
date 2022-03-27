@@ -15,10 +15,10 @@ const Chooseone = (shop) => {
 const Cart = ({ shop, reset }) => {
     return (
         <div>
-            <h4>Order Details</h4>
-            <h6>Total product @cart :{shop.length}</h6>
+            <h4 className='pt-5'>Order Details</h4>
+            <h6>Total product on cart :{shop.length}</h6>
             <div>{shop.map(product => <div>{product.name}</div>)}</div>
-            <button onClick={() => randomNumber(shop)} className='btn select'>Select for me</button>
+            <button onClick={() => randomNumber(shop)} className='btn select mt-5'>Select for me</button>
             <div><Chooseone randomNumber={()=>randomNumber(shop)}></Chooseone></div>
             <button onClick={reset} className='btn btn-danger delete'>Clear cart</button>
         </div>
